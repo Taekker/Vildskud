@@ -13,12 +13,29 @@ h1 {
 h2 {
   font-size: 1.5rem;
 }
+
+p {
+  font-size: small;
+}
 p,
 h1,
 h2,
 h3,
-h4 {
+h4,
+h5 {
   color: white;
+}
+
+.column h4 {
+  color: #f72fcc;
+}
+
+.column a {
+  text-decoration: underline;
+}
+
+h5 {
+  font-size: x-small;
 }
 
 li {
