@@ -7,11 +7,13 @@ body {
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 2.7rem;
+  font-family: monospace;
 }
 
 h2 {
   font-size: 1.5rem;
+  font-family: monospace;
 }
 
 p {
@@ -22,7 +24,8 @@ h1,
 h2,
 h3,
 h4,
-h5 {
+h5,
+li {
   color: white;
 }
 
@@ -90,13 +93,13 @@ header {
 }
 
 .nav-link:hover {
-  color: #f72fcc;
+  color: #cec48d;
 }
 
 .nav-logo {
   font-size: 2.1rem;
   font-weight: 500;
-  color: #f72fcc;
+  color: #cec48d;
 }
 
 @media only screen and (max-width: 1300px) {
