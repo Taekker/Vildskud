@@ -18,6 +18,8 @@ export default defineConfig({
         // detlevenderum: resolve(__dirname, "src/detlevenderum.html"),
         events: resolve(__dirname, "src/events.html"),
         frivillig: resolve(__dirname, "src/frivillig.html"),
+        detlevenderum: resolve(__dirname, "src/detlevenderum.html"),
+
         frygtenforikkeatleve: resolve(
           __dirname,
           "src/frygtenforikkeatleve.html"
@@ -33,6 +35,7 @@ export default defineConfig({
         sitemap: resolve(__dirname, "src/sitemap.html"),
         vaermed: resolve(__dirname, "src/vaermed.html"),
         vildmedmig: resolve(__dirname, "src/vildmedmig.html"),
+        kotakt: resolve(__dirname, "src/kontakt.html"),
         whatfirestogetherwirestogether: resolve(
           __dirname,
           "src/whatfirestogetherwirestogether.html"
