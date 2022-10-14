@@ -15,7 +15,7 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, "src/index.html"),
         billetter: resolve(__dirname, "src/billetter.html"),
-        detlevenderum: resolve(__dirname, "src/detlevenderum.html"),
+        // detlevenderum: resolve(__dirname, "src/detlevenderum.html"),
         events: resolve(__dirname, "src/events.html"),
         frivillig: resolve(__dirname, "src/frivillig.html"),
         frygtenforikkeatleve: resolve(
